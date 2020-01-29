@@ -9359,11 +9359,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akasha.nasir\\Desktop\\POC\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\akasha.nasir\\Desktop\\Poc for Serilog\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\akasha.nasir\\Desktop\\POC\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\akasha.nasir\\Desktop\\Poc for Serilog\\WebApi\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\akasha.nasir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akasha.nasir\\Desktop\\POC\\WebApi\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\akasha.nasir\\Desktop\\Poc for Serilog\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akasha.nasir\\AppData\\Roaming\\NuGet\\NuGet.Config",

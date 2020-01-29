@@ -27,8 +27,9 @@ namespace WebApi
         {
             Log.Logger = new LoggerConfiguration()
                 .MinimumLevel
-                .Information()
+                .Debug()
                 .WriteTo.RollingFile("log-{Date}.txt",LogEventLevel.Information )
+                .WriteTo.Console()
                 .WriteTo.Seq("http://localhost:5341/")
                 //.ReadFrom.Configuration(Configuration)
                 //.Enrich.FromLogContext()

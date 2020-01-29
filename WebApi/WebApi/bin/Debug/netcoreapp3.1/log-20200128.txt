@@ -343,3 +343,52 @@ VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13
 2020-01-28 15:50:09.731 +05:00 [Information] Executed endpoint '"WebApi.Controllers.ApplicationUserController.PostApplicationUser (WebApi)"'
 2020-01-28 15:50:09.731 +05:00 [Information] HTTP "POST" "/api/ApplicationUser/Register" responded 200 in 462.4139 ms
 2020-01-28 15:50:09.731 +05:00 [Information] Request finished in 463.2437ms 200 application/json; charset=utf-8
+2020-01-28 15:54:44.364 +05:00 [Information] Getting the motors running...
+2020-01-28 15:54:44.731 +05:00 [Information] User profile is available. Using '"C:\Users\akasha.nasir\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-01-28 15:54:44.935 +05:00 [Information] Application started. Press Ctrl+C to shut down.
+2020-01-28 15:54:44.935 +05:00 [Information] Hosting environment: "Development"
+2020-01-28 15:54:44.935 +05:00 [Information] Content root path: "C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi"
+2020-01-28 15:54:44.958 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/weatherforecast  
+2020-01-28 15:54:45.018 +05:00 [Information] Executing endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:54:45.044 +05:00 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[WebApi.WeatherForecast] Get()" on controller "WebApi.Controllers.WeatherForecastController" ("WebApi").
+2020-01-28 15:54:45.050 +05:00 [Information] Executing ObjectResult, writing value of type '"WebApi.WeatherForecast[]"'.
+2020-01-28 15:54:45.078 +05:00 [Information] Executed action "WebApi.Controllers.WeatherForecastController.Get (WebApi)" in 28.6099ms
+2020-01-28 15:54:45.078 +05:00 [Information] Executed endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:54:45.080 +05:00 [Information] HTTP "GET" "/weatherforecast" responded 200 in 117.1397 ms
+2020-01-28 15:54:45.084 +05:00 [Information] Request finished in 131.9794ms 200 application/json; charset=utf-8
+2020-01-28 15:55:54.397 +05:00 [Information] Request starting HTTP/1.1 OPTIONS http://localhost:63697/api/ApplicationUser/Register  
+2020-01-28 15:55:54.403 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:55:54.405 +05:00 [Information] HTTP "OPTIONS" "/api/ApplicationUser/Register" responded 204 in 8.1267 ms
+2020-01-28 15:55:54.407 +05:00 [Information] Request finished in 10.2688ms 204 
+2020-01-28 15:55:54.411 +05:00 [Information] Request starting HTTP/1.1 POST http://localhost:63697/api/ApplicationUser/Register application/json; charset=UTF-8 66
+2020-01-28 15:55:54.413 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:55:54.414 +05:00 [Information] Executing endpoint '"WebApi.Controllers.ApplicationUserController.PostApplicationUser (WebApi)"'
+2020-01-28 15:55:54.432 +05:00 [Information] Route matched with "{action = \"PostApplicationUser\", controller = \"ApplicationUser\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[System.Object] PostApplicationUser(WebApi.Model.ApplicationUserModel)" on controller "WebApi.Controllers.ApplicationUserController" ("WebApi").
+2020-01-28 15:55:55.117 +05:00 [Information] Entity Framework Core "3.1.1" initialized '"AuthenticationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2020-01-28 15:55:55.646 +05:00 [Information] Executed DbCommand ("65"ms) [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Discriminator], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a].[fullName]
+FROM [AspNetUsers] AS [a]
+WHERE ([a].[Discriminator] = N'ApplicationUser') AND ([a].[NormalizedUserName] = @__normalizedUserName_0)"
+2020-01-28 15:55:55.875 +05:00 [Information] Executed DbCommand ("24"ms) [Parameters=["@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 256), @p5='?' (DbType = Boolean), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256), @p16='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Discriminator], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName], [fullName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16);"
+2020-01-28 15:55:55.901 +05:00 [Information] Executing ObjectResult, writing value of type '"Microsoft.AspNetCore.Identity.IdentityResult"'.
+2020-01-28 15:55:55.905 +05:00 [Information] Executed action "WebApi.Controllers.ApplicationUserController.PostApplicationUser (WebApi)" in 1473.0176ms
+2020-01-28 15:55:55.905 +05:00 [Information] Executed endpoint '"WebApi.Controllers.ApplicationUserController.PostApplicationUser (WebApi)"'
+2020-01-28 15:55:55.907 +05:00 [Information] HTTP "POST" "/api/ApplicationUser/Register" responded 200 in 1495.5834 ms
+2020-01-28 15:55:55.911 +05:00 [Information] Request finished in 1501.1237ms 200 application/json; charset=utf-8
+2020-01-28 15:56:22.195 +05:00 [Information] Request starting HTTP/1.1 OPTIONS http://localhost:63697/api/ApplicationUser/Register  
+2020-01-28 15:56:22.196 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:56:22.196 +05:00 [Information] HTTP "OPTIONS" "/api/ApplicationUser/Register" responded 204 in 0.7295 ms
+2020-01-28 15:56:22.197 +05:00 [Information] Request finished in 2.095ms 204 
+2020-01-28 15:56:22.200 +05:00 [Information] Request starting HTTP/1.1 POST http://localhost:63697/api/ApplicationUser/Register application/json; charset=UTF-8 61
+2020-01-28 15:56:22.201 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:56:22.203 +05:00 [Information] Executing endpoint '"WebApi.Controllers.ApplicationUserController.PostApplicationUser (WebApi)"'
+2020-01-28 15:56:22.204 +05:00 [Information] Route matched with "{action = \"PostApplicationUser\", controller = \"ApplicationUser\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[System.Object] PostApplicationUser(WebApi.Model.ApplicationUserModel)" on controller "WebApi.Controllers.ApplicationUserController" ("WebApi").
+2020-01-28 15:56:22.209 +05:00 [Warning] User "e47ec627-bc5b-464c-8bcd-3db6139a0201" password validation failed: "PasswordTooShort;PasswordRequiresUniqueChars".
+2020-01-28 15:56:22.210 +05:00 [Information] Executing ObjectResult, writing value of type '"Microsoft.AspNetCore.Identity.IdentityResult"'.
+2020-01-28 15:56:22.211 +05:00 [Information] Executed action "WebApi.Controllers.ApplicationUserController.PostApplicationUser (WebApi)" in 6.8582ms
+2020-01-28 15:56:22.211 +05:00 [Information] Executed endpoint '"WebApi.Controllers.ApplicationUserController.PostApplicationUser (WebApi)"'
+2020-01-28 15:56:22.211 +05:00 [Information] HTTP "POST" "/api/ApplicationUser/Register" responded 200 in 10.2960 ms
+2020-01-28 15:56:22.211 +05:00 [Information] Request finished in 10.9941ms 200 application/json; charset=utf-8
