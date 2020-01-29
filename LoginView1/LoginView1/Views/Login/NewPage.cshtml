@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewData["Title"] = "NewPage";
+}
+
+
+
+    <nav class="navbar navbar-dark" style="background-color :black">
+      <a class="navbar-brand text-white">Authentication</a>
+        @*<button class="btn btn-danger my-2 my-sm-0" >Log Out</button>*@
+    </nav>
+<div id="name"></div>
+<div id="email"></div>
+<div id="fullName"></div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+<script>
+    $(document).ready(function () {
+      //  document.getElementById("email").textContent = window.localStorage.getItem("Token");
+        console.log('Hi')
+
+        var token = window.localStorage.getItem("Token");
+        console.log(token);
+        if (token != null) {
+
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:63697/api/UserProfile/GetUserProfile",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                //  headers: { "Authorization": localStorage.getItem('Token') },
+                //beforeSend: function (xhr) {
+                //    xhr.setRequestHeader("Authorization", "Bearer " + localStorage.getItem('Token'))
+                //},
+                headers: {
+                    'Authorization': 'Bearer ' + JSON.parse(token).token
+                },
+                success: function (data, textStatus, xhr) {
+                    $('#name').append(JSON.stringify(data));
+                    document.getElementById("email").textContent = window.localStorage.getItem("Token")
+
+                },
+
+                failure: function (data) {
+                    //console.log('Failure Function');
+                },
+                error: function (data) {
+                    //console.log(data);
+                }
+
+            });
+        }
+        else {
+            window.location.href = "/Login/LogIn";
+        }
+      
+
+
+
+
+    });
+
+
+
+</script>

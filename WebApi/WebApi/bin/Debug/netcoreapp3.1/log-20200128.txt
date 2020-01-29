@@ -1,0 +1,345 @@
+2020-01-28 14:43:02.532 +05:00 [Information] Getting the motors running...
+2020-01-28 14:43:02.886 +05:00 [Information] User profile is available. Using '"C:\Users\akasha.nasir\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-01-28 14:43:03.035 +05:00 [Information] Application started. Press Ctrl+C to shut down.
+2020-01-28 14:43:03.036 +05:00 [Information] Hosting environment: "Development"
+2020-01-28 14:43:03.036 +05:00 [Information] Content root path: "C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi"
+2020-01-28 14:43:03.070 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/weatherforecast  
+2020-01-28 14:43:03.147 +05:00 [Information] Executing endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 14:43:03.174 +05:00 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[WebApi.WeatherForecast] Get()" on controller "WebApi.Controllers.WeatherForecastController" ("WebApi").
+2020-01-28 14:43:03.180 +05:00 [Information] Executing ObjectResult, writing value of type '"WebApi.WeatherForecast[]"'.
+2020-01-28 14:43:03.209 +05:00 [Information] Executed action "WebApi.Controllers.WeatherForecastController.Get (WebApi)" in 27.8605ms
+2020-01-28 14:43:03.210 +05:00 [Information] Executed endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 14:43:03.211 +05:00 [Information] HTTP "GET" "/weatherforecast" responded 200 in 130.7953 ms
+2020-01-28 14:43:03.215 +05:00 [Information] Request finished in 152.1187ms 200 application/json; charset=utf-8
+2020-01-28 14:51:42.651 +05:00 [Information] Getting the motors running...
+2020-01-28 14:51:43.043 +05:00 [Information] User profile is available. Using '"C:\Users\akasha.nasir\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-01-28 14:51:43.199 +05:00 [Information] Application started. Press Ctrl+C to shut down.
+2020-01-28 14:51:43.200 +05:00 [Information] Hosting environment: "Development"
+2020-01-28 14:51:43.200 +05:00 [Information] Content root path: "C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi"
+2020-01-28 14:51:43.224 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/weatherforecast  
+2020-01-28 14:51:43.285 +05:00 [Information] Executing endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 14:51:43.308 +05:00 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[WebApi.WeatherForecast] Get()" on controller "WebApi.Controllers.WeatherForecastController" ("WebApi").
+2020-01-28 14:51:43.313 +05:00 [Information] Executing ObjectResult, writing value of type '"WebApi.WeatherForecast[]"'.
+2020-01-28 14:51:43.342 +05:00 [Information] Executed action "WebApi.Controllers.WeatherForecastController.Get (WebApi)" in 27.6406ms
+2020-01-28 14:51:43.343 +05:00 [Information] Executed endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 14:51:43.345 +05:00 [Information] HTTP "GET" "/weatherforecast" responded 200 in 114.9399 ms
+2020-01-28 14:51:43.348 +05:00 [Information] Request finished in 128.3994ms 200 application/json; charset=utf-8
+2020-01-28 15:02:06.484 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/weatherforecast  
+2020-01-28 15:02:06.489 +05:00 [Information] Executing endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:02:06.490 +05:00 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[WebApi.WeatherForecast] Get()" on controller "WebApi.Controllers.WeatherForecastController" ("WebApi").
+2020-01-28 15:02:06.491 +05:00 [Information] Executing ObjectResult, writing value of type '"WebApi.WeatherForecast[]"'.
+2020-01-28 15:02:06.493 +05:00 [Information] Executed action "WebApi.Controllers.WeatherForecastController.Get (WebApi)" in 2.206ms
+2020-01-28 15:02:06.493 +05:00 [Information] Executed endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:02:06.493 +05:00 [Information] HTTP "GET" "/weatherforecast" responded 200 in 7.1193 ms
+2020-01-28 15:02:06.494 +05:00 [Information] Request finished in 10.1903ms 200 application/json; charset=utf-8
+2020-01-28 15:02:35.239 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/weatherforecast  
+2020-01-28 15:02:35.242 +05:00 [Information] Executing endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:02:35.242 +05:00 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[WebApi.WeatherForecast] Get()" on controller "WebApi.Controllers.WeatherForecastController" ("WebApi").
+2020-01-28 15:02:35.243 +05:00 [Information] Executing ObjectResult, writing value of type '"WebApi.WeatherForecast[]"'.
+2020-01-28 15:02:35.243 +05:00 [Information] Executed action "WebApi.Controllers.WeatherForecastController.Get (WebApi)" in 0.8319ms
+2020-01-28 15:02:35.243 +05:00 [Information] Executed endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:02:35.243 +05:00 [Information] HTTP "GET" "/weatherforecast" responded 200 in 3.8282 ms
+2020-01-28 15:02:35.244 +05:00 [Information] Request finished in 4.6399ms 200 application/json; charset=utf-8
+2020-01-28 15:20:54.198 +05:00 [Information] Getting the motors running...
+2020-01-28 15:20:54.548 +05:00 [Information] User profile is available. Using '"C:\Users\akasha.nasir\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-01-28 15:20:54.692 +05:00 [Information] Application started. Press Ctrl+C to shut down.
+2020-01-28 15:20:54.693 +05:00 [Information] Hosting environment: "Development"
+2020-01-28 15:20:54.693 +05:00 [Information] Content root path: "C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi"
+2020-01-28 15:20:54.712 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/weatherforecast  
+2020-01-28 15:20:54.770 +05:00 [Information] Executing endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:20:54.794 +05:00 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[WebApi.WeatherForecast] Get()" on controller "WebApi.Controllers.WeatherForecastController" ("WebApi").
+2020-01-28 15:20:54.799 +05:00 [Information] Executing ObjectResult, writing value of type '"WebApi.WeatherForecast[]"'.
+2020-01-28 15:20:54.825 +05:00 [Information] Executed action "WebApi.Controllers.WeatherForecastController.Get (WebApi)" in 25.6091ms
+2020-01-28 15:20:54.826 +05:00 [Information] Executed endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:20:54.828 +05:00 [Information] HTTP "GET" "/weatherforecast" responded 200 in 109.7752 ms
+2020-01-28 15:20:54.831 +05:00 [Information] Request finished in 122.9228ms 200 application/json; charset=utf-8
+2020-01-28 15:22:01.536 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/api/UserProfile/GetUserProfile  
+2020-01-28 15:22:01.549 +05:00 [Information] Authorization failed.
+2020-01-28 15:22:01.555 +05:00 [Information] AuthenticationScheme: "Bearer" was challenged.
+2020-01-28 15:22:01.556 +05:00 [Information] HTTP "GET" "/api/UserProfile/GetUserProfile" responded 401 in 19.1521 ms
+2020-01-28 15:22:01.557 +05:00 [Information] Request finished in 21.694ms 401 
+2020-01-28 15:22:09.963 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/api/UserProfile/GetUserProfile  
+2020-01-28 15:22:09.969 +05:00 [Information] Authorization failed.
+2020-01-28 15:22:09.969 +05:00 [Information] AuthenticationScheme: "Bearer" was challenged.
+2020-01-28 15:22:09.970 +05:00 [Information] HTTP "GET" "/api/UserProfile/GetUserProfile" responded 401 in 6.2502 ms
+2020-01-28 15:22:09.971 +05:00 [Information] Request finished in 7.7899ms 401 
+2020-01-28 15:24:08.619 +05:00 [Information] Getting the motors running...
+2020-01-28 15:24:09.015 +05:00 [Information] User profile is available. Using '"C:\Users\akasha.nasir\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-01-28 15:24:09.163 +05:00 [Information] Application started. Press Ctrl+C to shut down.
+2020-01-28 15:24:09.163 +05:00 [Information] Hosting environment: "Development"
+2020-01-28 15:24:09.163 +05:00 [Information] Content root path: "C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi"
+2020-01-28 15:24:09.183 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/weatherforecast  
+2020-01-28 15:24:09.241 +05:00 [Information] Executing endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:24:09.265 +05:00 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[WebApi.WeatherForecast] Get()" on controller "WebApi.Controllers.WeatherForecastController" ("WebApi").
+2020-01-28 15:24:09.271 +05:00 [Information] Executing ObjectResult, writing value of type '"WebApi.WeatherForecast[]"'.
+2020-01-28 15:24:09.296 +05:00 [Information] Executed action "WebApi.Controllers.WeatherForecastController.Get (WebApi)" in 24.9741ms
+2020-01-28 15:24:09.296 +05:00 [Information] Executed endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:24:09.298 +05:00 [Information] HTTP "GET" "/weatherforecast" responded 200 in 109.1114 ms
+2020-01-28 15:24:09.301 +05:00 [Information] Request finished in 122.4023ms 200 application/json; charset=utf-8
+2020-01-28 15:24:12.926 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/api/UserProfile/GetUserProfile  
+2020-01-28 15:24:12.930 +05:00 [Information] Executing endpoint '"WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)"'
+2020-01-28 15:24:12.945 +05:00 [Information] Route matched with "{action = \"GetUserProfile\", controller = \"UserProfile\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[System.Object] GetUserProfile()" on controller "WebApi.Controllers.UserProfileController" ("WebApi").
+2020-01-28 15:24:13.289 +05:00 [Information] Executed action "WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)" in 343.77ms
+2020-01-28 15:24:13.290 +05:00 [Information] Executed endpoint '"WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)"'
+2020-01-28 15:24:13.290 +05:00 [Error] HTTP "GET" "/api/UserProfile/GetUserProfile" responded 500 in 363.5215 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebApi.Controllers.UserProfileController.GetUserProfile() in C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi\Controllers\UserProfileController.cs:line 36
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2020-01-28 15:24:13.354 +05:00 [Error] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebApi.Controllers.UserProfileController.GetUserProfile() in C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi\Controllers\UserProfileController.cs:line 36
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-01-28 15:24:13.429 +05:00 [Information] Request finished in 503.0141ms 500 text/html; charset=utf-8
+2020-01-28 15:25:48.761 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/weatherforecast  
+2020-01-28 15:25:48.766 +05:00 [Information] Executing endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:25:48.768 +05:00 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[WebApi.WeatherForecast] Get()" on controller "WebApi.Controllers.WeatherForecastController" ("WebApi").
+2020-01-28 15:25:48.773 +05:00 [Information] Executing ObjectResult, writing value of type '"WebApi.WeatherForecast[]"'.
+2020-01-28 15:25:48.775 +05:00 [Information] Executed action "WebApi.Controllers.WeatherForecastController.Get (WebApi)" in 7.0209ms
+2020-01-28 15:25:48.776 +05:00 [Information] Executed endpoint '"WebApi.Controllers.WeatherForecastController.Get (WebApi)"'
+2020-01-28 15:25:48.776 +05:00 [Information] HTTP "GET" "/weatherforecast" responded 200 in 14.0924 ms
+2020-01-28 15:25:48.776 +05:00 [Information] Request finished in 16.1914ms 200 application/json; charset=utf-8
+2020-01-28 15:25:53.014 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/api/UserProfile/GetUserProfile  
+2020-01-28 15:25:53.016 +05:00 [Information] Executing endpoint '"WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)"'
+2020-01-28 15:25:53.017 +05:00 [Information] Route matched with "{action = \"GetUserProfile\", controller = \"UserProfile\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[System.Object] GetUserProfile()" on controller "WebApi.Controllers.UserProfileController" ("WebApi").
+2020-01-28 15:25:53.019 +05:00 [Information] Executed action "WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)" in 2.2865ms
+2020-01-28 15:25:53.020 +05:00 [Information] Executed endpoint '"WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)"'
+2020-01-28 15:25:53.020 +05:00 [Error] HTTP "GET" "/api/UserProfile/GetUserProfile" responded 500 in 5.9302 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebApi.Controllers.UserProfileController.GetUserProfile() in C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi\Controllers\UserProfileController.cs:line 36
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2020-01-28 15:25:53.021 +05:00 [Error] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebApi.Controllers.UserProfileController.GetUserProfile() in C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi\Controllers\UserProfileController.cs:line 36
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-01-28 15:25:53.038 +05:00 [Information] Request finished in 24.3447ms 500 text/html; charset=utf-8
+2020-01-28 15:29:23.836 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/api/LogInRecordController/LoginInfo application/json 329
+2020-01-28 15:29:23.837 +05:00 [Information] HTTP "GET" "/api/LogInRecordController/LoginInfo" responded 404 in 0.5900 ms
+2020-01-28 15:29:23.838 +05:00 [Information] Request finished in 3.6807ms 404 
+2020-01-28 15:36:49.643 +05:00 [Information] Request starting HTTP/1.1 OPTIONS http://localhost:63697/api/ApplicationUser/Login  
+2020-01-28 15:36:49.645 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:36:49.647 +05:00 [Information] HTTP "OPTIONS" "/api/ApplicationUser/Login" responded 204 in 3.6071 ms
+2020-01-28 15:36:49.647 +05:00 [Information] Request finished in 5.0172ms 204 
+2020-01-28 15:36:49.651 +05:00 [Information] Request starting HTTP/1.1 POST http://localhost:63697/api/ApplicationUser/Login application/json; charset=UTF-8 39
+2020-01-28 15:36:49.652 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:36:49.653 +05:00 [Information] Executing endpoint '"WebApi.Controllers.ApplicationUserController.Login (WebApi)"'
+2020-01-28 15:36:49.665 +05:00 [Information] Route matched with "{action = \"Login\", controller = \"ApplicationUser\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(WebApi.Model.LoginModel)" on controller "WebApi.Controllers.ApplicationUserController" ("WebApi").
+2020-01-28 15:36:50.327 +05:00 [Information] Entity Framework Core "3.1.1" initialized '"AuthenticationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2020-01-28 15:36:51.204 +05:00 [Information] Executed DbCommand ("69"ms) [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Discriminator], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a].[fullName]
+FROM [AspNetUsers] AS [a]
+WHERE ([a].[Discriminator] = N'ApplicationUser') AND ([a].[NormalizedUserName] = @__normalizedUserName_0)"
+2020-01-28 15:36:51.503 +05:00 [Information] Executing ObjectResult, writing value of type '"<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2020-01-28 15:36:51.506 +05:00 [Information] Executed action "WebApi.Controllers.ApplicationUserController.Login (WebApi)" in 1840.5853ms
+2020-01-28 15:36:51.506 +05:00 [Information] Executed endpoint '"WebApi.Controllers.ApplicationUserController.Login (WebApi)"'
+2020-01-28 15:36:51.508 +05:00 [Information] HTTP "POST" "/api/ApplicationUser/Login" responded 200 in 1856.9115 ms
+2020-01-28 15:36:51.511 +05:00 [Information] Request finished in 1860.4847ms 200 application/json; charset=utf-8
+2020-01-28 15:36:51.617 +05:00 [Information] Request starting HTTP/1.1 OPTIONS http://localhost:63697/api/UserProfile/GetUserProfile  
+2020-01-28 15:36:51.617 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:36:51.618 +05:00 [Information] HTTP "OPTIONS" "/api/UserProfile/GetUserProfile" responded 204 in 0.6753 ms
+2020-01-28 15:36:51.618 +05:00 [Information] Request finished in 1.1126ms 204 
+2020-01-28 15:36:51.623 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/api/UserProfile/GetUserProfile application/json; charset=utf-8 
+2020-01-28 15:36:51.623 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:36:51.684 +05:00 [Information] Successfully validated the token.
+2020-01-28 15:36:51.685 +05:00 [Information] Executing endpoint '"WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)"'
+2020-01-28 15:36:51.685 +05:00 [Information] Route matched with "{action = \"GetUserProfile\", controller = \"UserProfile\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[System.Object] GetUserProfile()" on controller "WebApi.Controllers.UserProfileController" ("WebApi").
+2020-01-28 15:36:51.712 +05:00 [Information] Entity Framework Core "3.1.1" initialized '"AuthenticationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2020-01-28 15:36:51.734 +05:00 [Information] Executed DbCommand ("5"ms) [Parameters=["@__p_0='?' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Discriminator], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a].[fullName]
+FROM [AspNetUsers] AS [a]
+WHERE ([a].[Discriminator] = N'ApplicationUser') AND ([a].[Id] = @__p_0)"
+2020-01-28 15:36:51.740 +05:00 [Information] Get logger information ApplicationUser { fullName: "Akasha", Id: "ccbd8b00-83fa-493a-97b0-456c31afb078", UserName: "Akasha", NormalizedUserName: "AKASHA", Email: "akasha@gmail.com", NormalizedEmail: "AKASHA@GMAIL.COM", EmailConfirmed: False, PasswordHash: "AQAAAAEAACcQAAAAEEyv5Y6Md+dS/5tMMAxvDEeZOUWxFkIWCdTAwjxNcplA1sA+yG12vpU9fqnFnWlABg==", SecurityStamp: "33MO4EHCUJWP6FCACMSZ3G5SSQYCR3WO", ConcurrencyStamp: "d080b615-e7f7-4312-ac2b-d32ea3aba616", PhoneNumber: null, PhoneNumberConfirmed: False, TwoFactorEnabled: False, LockoutEnd: null, LockoutEnabled: True, AccessFailedCount: 0 }
+2020-01-28 15:36:51.742 +05:00 [Information] Executing ObjectResult, writing value of type '"<>f__AnonymousType2`3[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2020-01-28 15:36:51.743 +05:00 [Information] Executed action "WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)" in 58.3995ms
+2020-01-28 15:36:51.744 +05:00 [Information] Executed endpoint '"WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)"'
+2020-01-28 15:36:51.744 +05:00 [Information] HTTP "GET" "/api/UserProfile/GetUserProfile" responded 200 in 120.7361 ms
+2020-01-28 15:36:51.744 +05:00 [Information] Request finished in 121.1308ms 200 application/json; charset=utf-8
+2020-01-28 15:39:35.917 +05:00 [Information] Request starting HTTP/1.1 OPTIONS http://localhost:63697/api/ApplicationUser/Login  
+2020-01-28 15:39:35.918 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:39:35.918 +05:00 [Information] HTTP "OPTIONS" "/api/ApplicationUser/Login" responded 204 in 0.3976 ms
+2020-01-28 15:39:35.918 +05:00 [Information] Request finished in 1.2867ms 204 
+2020-01-28 15:39:35.921 +05:00 [Information] Request starting HTTP/1.1 POST http://localhost:63697/api/ApplicationUser/Login application/json; charset=UTF-8 39
+2020-01-28 15:39:35.921 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:39:35.921 +05:00 [Information] Executing endpoint '"WebApi.Controllers.ApplicationUserController.Login (WebApi)"'
+2020-01-28 15:39:35.922 +05:00 [Information] Route matched with "{action = \"Login\", controller = \"ApplicationUser\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(WebApi.Model.LoginModel)" on controller "WebApi.Controllers.ApplicationUserController" ("WebApi").
+2020-01-28 15:39:35.931 +05:00 [Information] Entity Framework Core "3.1.1" initialized '"AuthenticationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2020-01-28 15:39:35.940 +05:00 [Information] Executed DbCommand ("4"ms) [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Discriminator], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a].[fullName]
+FROM [AspNetUsers] AS [a]
+WHERE ([a].[Discriminator] = N'ApplicationUser') AND ([a].[NormalizedUserName] = @__normalizedUserName_0)"
+2020-01-28 15:39:35.949 +05:00 [Information] Executing ObjectResult, writing value of type '"<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2020-01-28 15:39:35.950 +05:00 [Information] Executed action "WebApi.Controllers.ApplicationUserController.Login (WebApi)" in 28.1489ms
+2020-01-28 15:39:35.950 +05:00 [Information] Executed endpoint '"WebApi.Controllers.ApplicationUserController.Login (WebApi)"'
+2020-01-28 15:39:35.950 +05:00 [Information] HTTP "POST" "/api/ApplicationUser/Login" responded 200 in 29.0195 ms
+2020-01-28 15:39:35.950 +05:00 [Information] Request finished in 29.2751ms 200 application/json; charset=utf-8
+2020-01-28 15:39:36.014 +05:00 [Information] Request starting HTTP/1.1 OPTIONS http://localhost:63697/api/UserProfile/GetUserProfile  
+2020-01-28 15:39:36.015 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:39:36.015 +05:00 [Information] HTTP "OPTIONS" "/api/UserProfile/GetUserProfile" responded 204 in 0.2334 ms
+2020-01-28 15:39:36.015 +05:00 [Information] Request finished in 1.0387ms 204 
+2020-01-28 15:39:36.019 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/api/UserProfile/GetUserProfile application/json; charset=utf-8 
+2020-01-28 15:39:36.019 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:39:36.020 +05:00 [Information] Executing endpoint '"WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)"'
+2020-01-28 15:39:36.020 +05:00 [Information] Route matched with "{action = \"GetUserProfile\", controller = \"UserProfile\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[System.Object] GetUserProfile()" on controller "WebApi.Controllers.UserProfileController" ("WebApi").
+2020-01-28 15:39:36.022 +05:00 [Information] Executed action "WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)" in 1.5768ms
+2020-01-28 15:39:36.022 +05:00 [Information] Executed endpoint '"WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)"'
+2020-01-28 15:39:36.022 +05:00 [Error] HTTP "GET" "/api/UserProfile/GetUserProfile" responded 500 in 2.6543 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebApi.Controllers.UserProfileController.GetUserProfile() in C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi\Controllers\UserProfileController.cs:line 36
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2020-01-28 15:39:36.023 +05:00 [Error] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebApi.Controllers.UserProfileController.GetUserProfile() in C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi\Controllers\UserProfileController.cs:line 36
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-01-28 15:39:36.027 +05:00 [Information] Request finished in 7.6579ms 500 text/plain
+2020-01-28 15:47:26.144 +05:00 [Information] Getting the motors running...
+2020-01-28 15:47:26.456 +05:00 [Information] User profile is available. Using '"C:\Users\akasha.nasir\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-01-28 15:47:26.597 +05:00 [Information] Application started. Press Ctrl+C to shut down.
+2020-01-28 15:47:26.598 +05:00 [Information] Hosting environment: "Development"
+2020-01-28 15:47:26.598 +05:00 [Information] Content root path: "C:\Users\akasha.nasir\Desktop\POC\WebApi\WebApi"
+2020-01-28 15:47:26.617 +05:00 [Information] Request starting HTTP/1.1 OPTIONS http://localhost:63697/api/ApplicationUser/Login  
+2020-01-28 15:47:26.649 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:47:26.652 +05:00 [Information] HTTP "OPTIONS" "/api/ApplicationUser/Login" responded 204 in 29.7827 ms
+2020-01-28 15:47:26.662 +05:00 [Information] Request finished in 48.0881ms 204 
+2020-01-28 15:47:26.666 +05:00 [Information] Request starting HTTP/1.1 POST http://localhost:63697/api/ApplicationUser/Login application/json; charset=UTF-8 39
+2020-01-28 15:47:26.669 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:47:26.697 +05:00 [Information] Executing endpoint '"WebApi.Controllers.ApplicationUserController.Login (WebApi)"'
+2020-01-28 15:47:26.734 +05:00 [Information] Route matched with "{action = \"Login\", controller = \"ApplicationUser\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(WebApi.Model.LoginModel)" on controller "WebApi.Controllers.ApplicationUserController" ("WebApi").
+2020-01-28 15:47:27.417 +05:00 [Information] Entity Framework Core "3.1.1" initialized '"AuthenticationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2020-01-28 15:47:27.938 +05:00 [Information] Executed DbCommand ("64"ms) [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Discriminator], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a].[fullName]
+FROM [AspNetUsers] AS [a]
+WHERE ([a].[Discriminator] = N'ApplicationUser') AND ([a].[NormalizedUserName] = @__normalizedUserName_0)"
+2020-01-28 15:47:28.135 +05:00 [Information] Executing ObjectResult, writing value of type '"<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2020-01-28 15:47:28.146 +05:00 [Information] Executed action "WebApi.Controllers.ApplicationUserController.Login (WebApi)" in 1407.2662ms
+2020-01-28 15:47:28.147 +05:00 [Information] Executed endpoint '"WebApi.Controllers.ApplicationUserController.Login (WebApi)"'
+2020-01-28 15:47:28.148 +05:00 [Information] HTTP "POST" "/api/ApplicationUser/Login" responded 200 in 1481.7525 ms
+2020-01-28 15:47:28.152 +05:00 [Information] Request finished in 1487.1364ms 200 application/json; charset=utf-8
+2020-01-28 15:47:28.227 +05:00 [Information] Request starting HTTP/1.1 OPTIONS http://localhost:63697/api/UserProfile/GetUserProfile  
+2020-01-28 15:47:28.227 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:47:28.228 +05:00 [Information] HTTP "OPTIONS" "/api/UserProfile/GetUserProfile" responded 204 in 1.0756 ms
+2020-01-28 15:47:28.228 +05:00 [Information] Request finished in 1.4437ms 204 
+2020-01-28 15:47:28.234 +05:00 [Information] Request starting HTTP/1.1 GET http://localhost:63697/api/UserProfile/GetUserProfile application/json; charset=utf-8 
+2020-01-28 15:47:28.234 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:47:28.299 +05:00 [Information] Successfully validated the token.
+2020-01-28 15:47:28.303 +05:00 [Information] Authorization was successful.
+2020-01-28 15:47:28.303 +05:00 [Information] Executing endpoint '"WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)"'
+2020-01-28 15:47:28.307 +05:00 [Information] Route matched with "{action = \"GetUserProfile\", controller = \"UserProfile\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[System.Object] GetUserProfile()" on controller "WebApi.Controllers.UserProfileController" ("WebApi").
+2020-01-28 15:47:28.337 +05:00 [Information] Entity Framework Core "3.1.1" initialized '"AuthenticationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2020-01-28 15:47:28.357 +05:00 [Information] Executed DbCommand ("4"ms) [Parameters=["@__p_0='?' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Discriminator], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a].[fullName]
+FROM [AspNetUsers] AS [a]
+WHERE ([a].[Discriminator] = N'ApplicationUser') AND ([a].[Id] = @__p_0)"
+2020-01-28 15:47:28.363 +05:00 [Information] Get logger information ApplicationUser { fullName: "Akasha", Id: "ccbd8b00-83fa-493a-97b0-456c31afb078", UserName: "Akasha", NormalizedUserName: "AKASHA", Email: "akasha@gmail.com", NormalizedEmail: "AKASHA@GMAIL.COM", EmailConfirmed: False, PasswordHash: "AQAAAAEAACcQAAAAEEyv5Y6Md+dS/5tMMAxvDEeZOUWxFkIWCdTAwjxNcplA1sA+yG12vpU9fqnFnWlABg==", SecurityStamp: "33MO4EHCUJWP6FCACMSZ3G5SSQYCR3WO", ConcurrencyStamp: "d080b615-e7f7-4312-ac2b-d32ea3aba616", PhoneNumber: null, PhoneNumberConfirmed: False, TwoFactorEnabled: False, LockoutEnd: null, LockoutEnabled: True, AccessFailedCount: 0 }
+2020-01-28 15:47:28.366 +05:00 [Information] Executing ObjectResult, writing value of type '"<>f__AnonymousType2`3[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2020-01-28 15:47:28.368 +05:00 [Information] Executed action "WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)" in 61.4724ms
+2020-01-28 15:47:28.369 +05:00 [Information] Executed endpoint '"WebApi.Controllers.UserProfileController.GetUserProfile (WebApi)"'
+2020-01-28 15:47:28.369 +05:00 [Information] HTTP "GET" "/api/UserProfile/GetUserProfile" responded 200 in 134.8634 ms
+2020-01-28 15:47:28.369 +05:00 [Information] Request finished in 135.1535ms 200 application/json; charset=utf-8
+2020-01-28 15:50:09.262 +05:00 [Information] Request starting HTTP/1.1 OPTIONS http://localhost:63697/api/ApplicationUser/Register  
+2020-01-28 15:50:09.263 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:50:09.264 +05:00 [Information] HTTP "OPTIONS" "/api/ApplicationUser/Register" responded 204 in 0.9979 ms
+2020-01-28 15:50:09.265 +05:00 [Information] Request finished in 2.6801ms 204 
+2020-01-28 15:50:09.268 +05:00 [Information] Request starting HTTP/1.1 POST http://localhost:63697/api/ApplicationUser/Register application/json; charset=UTF-8 90
+2020-01-28 15:50:09.269 +05:00 [Information] CORS policy execution successful.
+2020-01-28 15:50:09.271 +05:00 [Information] Executing endpoint '"WebApi.Controllers.ApplicationUserController.PostApplicationUser (WebApi)"'
+2020-01-28 15:50:09.279 +05:00 [Information] Route matched with "{action = \"PostApplicationUser\", controller = \"ApplicationUser\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[System.Object] PostApplicationUser(WebApi.Model.ApplicationUserModel)" on controller "WebApi.Controllers.ApplicationUserController" ("WebApi").
+2020-01-28 15:50:09.328 +05:00 [Information] Entity Framework Core "3.1.1" initialized '"AuthenticationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2020-01-28 15:50:09.343 +05:00 [Information] Executed DbCommand ("10"ms) [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Discriminator], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a].[fullName]
+FROM [AspNetUsers] AS [a]
+WHERE ([a].[Discriminator] = N'ApplicationUser') AND ([a].[NormalizedUserName] = @__normalizedUserName_0)"
+2020-01-28 15:50:09.690 +05:00 [Information] Executed DbCommand ("188"ms) [Parameters=["@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 256), @p5='?' (DbType = Boolean), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256), @p16='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Discriminator], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName], [fullName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16);"
+2020-01-28 15:50:09.728 +05:00 [Information] Executing ObjectResult, writing value of type '"Microsoft.AspNetCore.Identity.IdentityResult"'.
+2020-01-28 15:50:09.731 +05:00 [Information] Executed action "WebApi.Controllers.ApplicationUserController.PostApplicationUser (WebApi)" in 451.3059ms
+2020-01-28 15:50:09.731 +05:00 [Information] Executed endpoint '"WebApi.Controllers.ApplicationUserController.PostApplicationUser (WebApi)"'
+2020-01-28 15:50:09.731 +05:00 [Information] HTTP "POST" "/api/ApplicationUser/Register" responded 200 in 462.4139 ms
+2020-01-28 15:50:09.731 +05:00 [Information] Request finished in 463.2437ms 200 application/json; charset=utf-8
